@@ -23,8 +23,11 @@ int main()
 
     int x = 10;
     int y = 12;
+    int z = 10;
+    int sum = x + z ;
     int sum = x + y;
     int sub = x - y;
+    int sub = x - z ;
     int mut = x*y;
     double div = x/y; 
 
